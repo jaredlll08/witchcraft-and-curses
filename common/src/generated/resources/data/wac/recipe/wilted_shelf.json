@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "F": {
+      "item": "minecraft:fern"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "W": {
+      "item": "wac:wilted_slab"
+    }
+  },
+  "pattern": [
+    "SWS",
+    "SFS",
+    "SWS"
+  ],
+  "result": {
+    "count": 1,
+    "id": "wac:wilted_shelf"
+  }
+}

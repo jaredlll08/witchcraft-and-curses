@@ -1,0 +1,30 @@
+{
+  "type": "wac:ritual",
+  "enchanting_power": 15,
+  "ingredients": [
+    {
+      "item": "minecraft:nether_wart"
+    },
+    {
+      "item": "minecraft:rabbit_foot"
+    },
+    {
+      "item": "minecraft:rabbit_foot"
+    },
+    {
+      "item": "minecraft:rabbit_foot"
+    },
+    {
+      "item": "minecraft:glowstone_dust"
+    }
+  ],
+  "output": {
+    "duration": 5400,
+    "id": "minecraft:jump_boost",
+    "neoforge:cures": [
+      "protected_by_totem",
+      "milk"
+    ],
+    "show_icon": true
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "minecraft:bookshelf"
+    },
+    "S": {
+      "item": "wac:wilted_slab"
+    }
+  },
+  "pattern": [
+    "S",
+    "B",
+    "S"
+  ],
+  "result": {
+    "count": 1,
+    "id": "wac:wilted_bookshelf"
+  }
+}

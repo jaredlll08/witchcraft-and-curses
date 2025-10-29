@@ -1,0 +1,27 @@
+{
+  "type": "wac:ritual",
+  "enchanting_power": 15,
+  "ingredients": [
+    {
+      "item": "minecraft:nether_wart"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "minecraft:sugar"
+    }
+  ],
+  "output": {
+    "duration": 10800,
+    "id": "minecraft:speed",
+    "neoforge:cures": [
+      "protected_by_totem",
+      "milk"
+    ],
+    "show_icon": true
+  }
+}

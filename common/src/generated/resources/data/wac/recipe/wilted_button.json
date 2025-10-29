@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "L": {
+      "item": "wac:wilted_planks"
+    }
+  },
+  "pattern": [
+    "L"
+  ],
+  "result": {
+    "count": 1,
+    "id": "wac:wilted_button"
+  }
+}

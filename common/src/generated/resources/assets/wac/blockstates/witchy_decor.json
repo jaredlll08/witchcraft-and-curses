@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "wac:block/witchy_decor",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "wac:block/witchy_decor"
+    },
+    "facing=south": {
+      "model": "wac:block/witchy_decor",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "wac:block/witchy_decor",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "wac:ritual",
+  "enchanting_power": 15,
+  "ingredients": [
+    {
+      "item": "minecraft:nether_wart"
+    },
+    {
+      "item": "minecraft:ghast_tear"
+    },
+    {
+      "item": "minecraft:ghast_tear"
+    },
+    {
+      "item": "minecraft:ghast_tear"
+    },
+    {
+      "item": "minecraft:glowstone_dust"
+    }
+  ],
+  "output": {
+    "duration": 5400,
+    "id": "minecraft:regeneration",
+    "neoforge:cures": [
+      "protected_by_totem",
+      "milk"
+    ],
+    "show_icon": true
+  }
+}

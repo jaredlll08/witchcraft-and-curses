@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "wac:block/wilted_wood_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "wac:block/wilted_wood"
+    },
+    "axis=z": {
+      "model": "wac:block/wilted_wood_horizontal",
+      "x": 90
+    }
+  }
+}

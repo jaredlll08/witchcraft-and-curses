@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "wac:block/wilted_log_top",
+    "side": "wac:block/wilted_log"
+  }
+}

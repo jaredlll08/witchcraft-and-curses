@@ -1,0 +1,33 @@
+{
+  "type": "wac:ritual",
+  "enchanting_power": 15,
+  "ingredients": [
+    {
+      "item": "minecraft:nether_wart"
+    },
+    {
+      "item": "minecraft:rabbit_foot"
+    },
+    {
+      "item": "minecraft:rabbit_foot"
+    },
+    {
+      "item": "minecraft:rabbit_foot"
+    },
+    {
+      "item": "minecraft:glowstone_dust"
+    },
+    {
+      "item": "minecraft:fermented_spider_eye"
+    }
+  ],
+  "output": {
+    "duration": 5400,
+    "id": "minecraft:slowness",
+    "neoforge:cures": [
+      "protected_by_totem",
+      "milk"
+    ],
+    "show_icon": true
+  }
+}

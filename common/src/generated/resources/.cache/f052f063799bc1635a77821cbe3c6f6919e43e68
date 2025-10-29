@@ -1,0 +1,25 @@
+// 1.21.1	2025-10-29T16:00:13.529739	Tags for minecraft:item mod id wac
+8d0a75345f04d6fade3056e8905ee22eb15628b7 data/minecraft/tags/item/boats.json
+0f29019a9582957f83d5cb79a048071d6a2898e9 data/minecraft/tags/item/buttons.json
+b16fda6c52ae00e92f365d0cb11d1c50498cbf6a data/minecraft/tags/item/chest_boats.json
+5c7ba4738cf7d598b0ac72c3ecb170416b483e24 data/minecraft/tags/item/doors.json
+ffe56791c1a3237b860774a990c37e5a0d227c21 data/minecraft/tags/item/fences.json
+078ca7d99325af2e47348cbefc98e166d5431870 data/minecraft/tags/item/fence_gates.json
+3ed23dfa4b6c36abf95c9fbc85ad35449aaf7ee9 data/minecraft/tags/item/flowers.json
+3320761431a4741694bf8d1e5d962b965f972bb5 data/minecraft/tags/item/leaves.json
+4b4b0bb7bd103a4595b58393701ba759c497801b data/minecraft/tags/item/logs.json
+4b4b0bb7bd103a4595b58393701ba759c497801b data/minecraft/tags/item/logs_that_burn.json
+56c0aea1704e4c27cc1b13758d79f7207f6dccb8 data/minecraft/tags/item/planks.json
+788e87979bef7035444becfa1c81b84805521011 data/minecraft/tags/item/saplings.json
+bf7f2c9f5a74b1a9cd95f0cc631f6a53735e3f35 data/minecraft/tags/item/slabs.json
+3ed23dfa4b6c36abf95c9fbc85ad35449aaf7ee9 data/minecraft/tags/item/small_flowers.json
+cab77188ced7754608ebb3b37859679d643b3bc4 data/minecraft/tags/item/stairs.json
+8a11b4bdea359746f816a20554b7cb293ca56e7b data/minecraft/tags/item/trapdoors.json
+0f29019a9582957f83d5cb79a048071d6a2898e9 data/minecraft/tags/item/wooden_buttons.json
+5c7ba4738cf7d598b0ac72c3ecb170416b483e24 data/minecraft/tags/item/wooden_doors.json
+ffe56791c1a3237b860774a990c37e5a0d227c21 data/minecraft/tags/item/wooden_fences.json
+e2804078052e6d38bce72d246c8ccff93581cee9 data/minecraft/tags/item/wooden_pressure_plates.json
+bf7f2c9f5a74b1a9cd95f0cc631f6a53735e3f35 data/minecraft/tags/item/wooden_slabs.json
+cab77188ced7754608ebb3b37859679d643b3bc4 data/minecraft/tags/item/wooden_stairs.json
+8a11b4bdea359746f816a20554b7cb293ca56e7b data/minecraft/tags/item/wooden_trapdoors.json
+4b4b0bb7bd103a4595b58393701ba759c497801b data/wac/tags/item/wilted_logs.json

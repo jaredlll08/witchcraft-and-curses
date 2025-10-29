@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "wac:block/wilted_planks",
+    "side": "wac:block/wilted_planks",
+    "top": "wac:block/wilted_planks"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "variants": {
+    "books=1": [
+      {
+        "model": "wac:block/book_stack_1"
+      },
+      {
+        "model": "wac:block/book_stack_1",
+        "y": 90
+      },
+      {
+        "model": "wac:block/book_stack_1",
+        "y": 180
+      },
+      {
+        "model": "wac:block/book_stack_1",
+        "y": 270
+      }
+    ],
+    "books=2": [
+      {
+        "model": "wac:block/book_stack_2"
+      },
+      {
+        "model": "wac:block/book_stack_2",
+        "y": 90
+      },
+      {
+        "model": "wac:block/book_stack_2",
+        "y": 180
+      },
+      {
+        "model": "wac:block/book_stack_2",
+        "y": 270
+      }
+    ],
+    "books=3": [
+      {
+        "model": "wac:block/book_stack_3"
+      },
+      {
+        "model": "wac:block/book_stack_3",
+        "y": 90
+      },
+      {
+        "model": "wac:block/book_stack_3",
+        "y": 180
+      },
+      {
+        "model": "wac:block/book_stack_3",
+        "y": 270
+      }
+    ],
+    "books=4": [
+      {
+        "model": "wac:block/book_stack_4"
+      },
+      {
+        "model": "wac:block/book_stack_4",
+        "y": 90
+      },
+      {
+        "model": "wac:block/book_stack_4",
+        "y": 180
+      },
+      {
+        "model": "wac:block/book_stack_4",
+        "y": 270
+      }
+    ]
+  }
+}

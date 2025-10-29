@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "wac:block/mossy_podium",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "wac:block/mossy_podium"
+    },
+    "facing=south": {
+      "model": "wac:block/mossy_podium",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "wac:block/mossy_podium",
+      "y": 270
+    }
+  }
+}

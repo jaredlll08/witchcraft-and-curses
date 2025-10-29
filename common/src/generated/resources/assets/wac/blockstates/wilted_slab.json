@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "wac:block/wilted_slab"
+    },
+    "type=double": {
+      "model": "wac:block/wilted_planks"
+    },
+    "type=top": {
+      "model": "wac:block/wilted_slab_top"
+    }
+  }
+}

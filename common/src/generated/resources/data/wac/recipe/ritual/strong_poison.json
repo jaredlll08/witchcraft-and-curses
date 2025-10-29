@@ -1,0 +1,31 @@
+{
+  "type": "wac:ritual",
+  "enchanting_power": 15,
+  "ingredients": [
+    {
+      "item": "minecraft:nether_wart"
+    },
+    {
+      "item": "minecraft:spider_eye"
+    },
+    {
+      "item": "minecraft:spider_eye"
+    },
+    {
+      "item": "minecraft:spider_eye"
+    },
+    {
+      "item": "minecraft:glowstone_dust"
+    }
+  ],
+  "output": {
+    "duration": 5400,
+    "id": "minecraft:poison",
+    "neoforge:cures": [
+      "honey",
+      "protected_by_totem",
+      "milk"
+    ],
+    "show_icon": true
+  }
+}
