@@ -32,12 +32,12 @@ public class WACRegion extends Region {
         
         VanillaParameterOverlayBuilder builder = new VanillaParameterOverlayBuilder();
         new ParameterPointListBuilder()
-                .temperature(Temperature.FULL_RANGE)
-                .humidity(Humidity.FULL_RANGE)
+                .temperature(Temperature.span(Temperature.COOL, Temperature.ICY))
+                .humidity(Humidity.span(Humidity.NEUTRAL, Humidity.HUMID))
                 .continentalness(Continentalness.INLAND)
                 .erosion(Erosion.FULL_RANGE)
-                .depth(Depth.FULL_RANGE)
-                .weirdness(Weirdness.FULL_RANGE)
+                .depth(Depth.SURFACE, Depth.FLOOR)
+                .weirdness(Weirdness.PEAK_NORMAL)
                 .build()
                 .forEach(point -> builder.add(point, WACBiomes.WILTED_WOODS));
         

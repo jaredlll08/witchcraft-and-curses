@@ -19,8 +19,8 @@
     "duration": 10800,
     "id": "minecraft:jump_boost",
     "neoforge:cures": [
-      "protected_by_totem",
-      "milk"
+      "milk",
+      "protected_by_totem"
     ],
     "show_icon": true
   }
